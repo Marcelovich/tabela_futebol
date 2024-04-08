@@ -1,0 +1,41 @@
+D:\Thiago\desenv.sistemas\AtividadeAvaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.AssemblyReference.cache
+D:\Thiago\desenv.sistemas\AtividadeAvaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.Properties.Resources.resources
+D:\Thiago\desenv.sistemas\AtividadeAvaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.GenerateResource.cache
+D:\Thiago\desenv.sistemas\AtividadeAvaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.CoreCompileInputs.cache
+D:\Thiago\desenv.sistemas\AtividadeAvaliativa\Atividade_Avaliativa\Atividade_Avaliativa\bin\Debug\Atividade_Avaliativa.exe.config
+D:\Thiago\desenv.sistemas\AtividadeAvaliativa\Atividade_Avaliativa\Atividade_Avaliativa\bin\Debug\Atividade_Avaliativa.exe
+D:\Thiago\desenv.sistemas\AtividadeAvaliativa\Atividade_Avaliativa\Atividade_Avaliativa\bin\Debug\Atividade_Avaliativa.pdb
+D:\Thiago\desenv.sistemas\AtividadeAvaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.frmFutebol.resources
+D:\Thiago\desenv.sistemas\AtividadeAvaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.exe
+D:\Thiago\desenv.sistemas\AtividadeAvaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.pdb
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\bin\Debug\Atividade_Avaliativa.exe.config
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\bin\Debug\Atividade_Avaliativa.exe
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\bin\Debug\Atividade_Avaliativa.pdb
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.AssemblyReference.cache
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.frmFutebol.resources
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.Properties.Resources.resources
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.GenerateResource.cache
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.CoreCompileInputs.cache
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.exe
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.pdb
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa (1)\Atividade_Avaliativa\Atividade_Avaliativa\bin\Debug\Atividade_Avaliativa.exe.config
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa (1)\Atividade_Avaliativa\Atividade_Avaliativa\bin\Debug\Atividade_Avaliativa.exe
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa (1)\Atividade_Avaliativa\Atividade_Avaliativa\bin\Debug\Atividade_Avaliativa.pdb
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa (1)\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.AssemblyReference.cache
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa (1)\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.frmFutebol.resources
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa (1)\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.Properties.Resources.resources
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa (1)\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.GenerateResource.cache
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa (1)\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.CoreCompileInputs.cache
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa (1)\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.exe
+C:\Users\0200832311028\Desktop\Atividade_Avaliativa (1)\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.pdb
+C:\Users\0200832311028\Downloads\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\bin\Debug\Atividade_Avaliativa.exe.config
+C:\Users\0200832311028\Downloads\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\bin\Debug\Atividade_Avaliativa.exe
+C:\Users\0200832311028\Downloads\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\bin\Debug\Atividade_Avaliativa.pdb
+C:\Users\0200832311028\Downloads\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.AssemblyReference.cache
+C:\Users\0200832311028\Downloads\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.SuggestedBindingRedirects.cache
+C:\Users\0200832311028\Downloads\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.frmFutebol.resources
+C:\Users\0200832311028\Downloads\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.Properties.Resources.resources
+C:\Users\0200832311028\Downloads\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.GenerateResource.cache
+C:\Users\0200832311028\Downloads\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.csproj.CoreCompileInputs.cache
+C:\Users\0200832311028\Downloads\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.exe
+C:\Users\0200832311028\Downloads\Atividade_Avaliativa\Atividade_Avaliativa\Atividade_Avaliativa\obj\Debug\Atividade_Avaliativa.pdb
